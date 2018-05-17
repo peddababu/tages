@@ -5,7 +5,7 @@
 
   <groupId>com.banckig</groupId>
   <artifactId>projest_csc</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>projest_csc</name>
   <!-- FIXME change it to the project's website -->
@@ -43,6 +43,6 @@
   </build>
   <scm>
     <developerConnection>scm:git:https://github.com/peddababu/tages.git/</developerConnection>
-    <tag>maven_1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
